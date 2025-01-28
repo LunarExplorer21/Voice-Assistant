@@ -411,7 +411,7 @@ if _name_ == '_main_':
              
             # Use the same API key 
             # that we have generated earlier
-            client = wolframalpha.Client("API_ID")
+            client = wolframalpha.Client("AIzaSyDiXUPe7J-MIC_N3yiueFHAkEiXK5_ve5E")
             res = client.query(query)
              
             try:
